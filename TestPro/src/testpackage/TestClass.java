@@ -7,6 +7,8 @@ public class TestClass {
 
 		System.out.println(0);
 		System.out.println(4);
+    System.out.println(6);
+
 		
 	}
 
