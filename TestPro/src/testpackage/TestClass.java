@@ -16,7 +16,7 @@ public class TestClass {
 		System.out.println("Im B1 going to master!!!!");
 
 		System.out.println(44);
-		System.out.println(6);
+		System.out.println(69);
 		System.out.println(88);
 
 
