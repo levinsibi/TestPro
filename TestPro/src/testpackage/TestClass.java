@@ -7,14 +7,12 @@ public class TestClass {
 
 		System.out.println(0);
 		System.out.println(4);
-    System.out.println(6);
+		System.out.println(6);
 
-    System.out.println("Im B2 going to masters");
+		System.out.println("Im B2 going to masters");
 
-    System.out.println("Im B1 going to master");
+		System.out.println("Im B1 going to master");
 
-
-		
 	}
 
 }
