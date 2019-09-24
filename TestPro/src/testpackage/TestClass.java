@@ -8,7 +8,7 @@ public class TestClass {
 		System.out.println(0);
 		System.out.println(4);
 		
-		System.out.println(66);
+		System.out.println(6);
 
 		System.out.println("Im B22 going22 to masters");
 
