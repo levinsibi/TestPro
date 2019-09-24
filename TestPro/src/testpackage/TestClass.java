@@ -11,7 +11,7 @@ public class TestClass {
 
 		System.out.println("Im B2 going to masters");
 
-		System.out.println("Im B1 going to master");
+			System.out.println("Im B1 going to master");
 
 	}
 
